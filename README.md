@@ -16,8 +16,8 @@
 ### 10월 
 |Mon|	Tue|	Wen|	Thur|	Fri	|Sat |Sun|
 |----|----|----|----|----|----|----|
-|1<br>[[백준]20920 - 영단어 암기는 괴로워](https://github.com/codesooo/Algorithm-Solve/tree/main/%EB%B0%B1%EC%A4%80/Silver/20920.%E2%80%85%EC%98%81%EB%8B%A8%EC%96%B4%E2%80%85%EC%95%94%EA%B8%B0%EB%8A%94%E2%80%85%EA%B4%B4%EB%A1%9C%EC%9B%8C)|2<br>|3<br>|4<br>|5<br><br>|6<br><br>|7<br><br>|
-|8<br>|9<br>|10<br>|11<br>|12<br><br>|13<br><br>|14<br><br>|
+|1<br>[[백준] <br> 20920 - 영단어 암기는 괴로워](https://github.com/codesooo/Algorithm-Solve/tree/main/%EB%B0%B1%EC%A4%80/Silver/20920.%E2%80%85%EC%98%81%EB%8B%A8%EC%96%B4%E2%80%85%EC%95%94%EA%B8%B0%EB%8A%94%E2%80%85%EA%B4%B4%EB%A1%9C%EC%9B%8C)|2<br>[[백준] <br> 10822 - 더하기](https://github.com/codesooo/Algorithm-Solve/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10822.%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0)|3<br> [[백준] <br> 13305 - 주유소](https://github.com/codesooo/Algorithm-Solve/tree/main/%EB%B0%B1%EC%A4%80/Silver/13305.%E2%80%85%EC%A3%BC%EC%9C%A0%EC%86%8C)|4<br>휴일<br><br>|5<br> [[백준] <br> 4659 - 비밀번호 발음하기](https://github.com/codesooo/Algorithm-Solve/tree/main/%EB%B0%B1%EC%A4%80/Silver/4659.%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%E2%80%85%EB%B0%9C%EC%9D%8C%ED%95%98%EA%B8%B0)|6<br>휴일<br><br>|7<br> [[백준] <br> 2164 - 카드2](https://github.com/codesooo/Algorithm-Solve/tree/main/%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2)|
+|8<br> [[백준] <br> 2346 - 풍선 터뜨리기](https://github.com/codesooo/Algorithm-Solve/tree/main/%EB%B0%B1%EC%A4%80/Silver/2346.%E2%80%85%ED%92%8D%EC%84%A0%E2%80%85%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0)|9<br>|10<br>|11<br>|12<br><br>|13<br><br>|14<br><br>|
 |15<br>|16<br>|17<br>|18<br>|19<br><br>|20<br><br>|21<br><br>|
 |22<br>|23<br>|24<br>|25<br>|26<br><br>|27<br><br>|28<br><br>|
 |29<br><br>|30<br><br>|31<br><br>|
